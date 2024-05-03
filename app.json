@@ -10,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sahibziko/delta",
+  "repository": "https://github.com/husnum640/hh",
   "website":   "https://t.me/apexuserbot",
   "success_url": "https://t.me/apexsup",
   "stack": "container",
@@ -54,7 +54,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Bura toxunmayın.",
-      "value": "https://github.com/sahibziko/delta",
+      "value": "https://github.com/husnum640/hh",
       "required": true
     },
     "COUNTRY": {
